@@ -12,6 +12,7 @@ APP_LOCALE=ru # Available options: ru, en, ru2
 **Running the Application**
 
 Use the following commands to start and stop the Symfony server:
+
 To start the server:
 ```bash
     symfony server:start
