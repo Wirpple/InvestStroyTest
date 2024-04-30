@@ -32,5 +32,4 @@ Navigate to the form using the URL: ```https://localhost/form```
 Here is what the form looks like:
 <img width="1440" alt="Снимок экрана 2024-04-30 в 12 18 31 PM" src="https://github.com/Wirpple/InvestStroyTest/assets/121581272/38cd11ea-8149-401a-9e2e-78e433facb29">
 
-
 Done) 
